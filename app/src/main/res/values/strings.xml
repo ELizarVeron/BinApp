@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BinApp</string>
+    <string name="history_of_requests">История запросов</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="load_info">Загрузить информацию</string>
+    <string name="hint_bin">Введите bin</string>
+    <string name="number">Номер</string>
+    <string name="len">Длина</string>
+    <string name="alg_luhn">Алгоритм Луна</string>
+    <string name="system">Система</string>
+    <string name="brand">Бренд</string>
+    <string name="test_string">1234567</string>
+    <string name="type">Тип</string>
+    <string name="country">Страна</string>
+    <string name="country_number">Номер страны</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="bank">Банк</string>
+    <string name="url">Сайт</string>
+    <string name="tel">Телеофн</string>
+    <string name="city">Город</string>
+    <string name="prepaid">С предоплатой</string>
+    <string name="alpha2">Alpha2</string>
+    <string name="title">Название</string>
+    <string name="emoji">Emoji</string>
+    <string name="currency">Валюта</string>
+</resources>
